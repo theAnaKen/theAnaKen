@@ -1,5 +1,5 @@
 # Hi i'm Anubhav👋!
-I'm a aspiring front-end developer
+I'm an aspiring front-end developer
 
 ## My stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=theAnaKen&show_icons=true&theme=radical" />
