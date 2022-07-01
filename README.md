@@ -3,7 +3,7 @@ I'm a aspiring web developer
 
 ## My stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=theAnaKen&show_icons=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnaKen&layout=compact&theme=radical" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnaKen&layout=compact&theme=radical" />
 
 <br />
 
