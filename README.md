@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi i'm Anubhav👋!
+I'm a aspiring web developer
 
-<!--
-**theAnaKen/theAnaKen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My stats
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=theAnaKen&show_icons=true&theme=radical" />
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnaKen&layout=compact&theme=radical" />
 
-Here are some ideas to get you started:
+## Languages i'm comfortable in
+<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" src ="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" src ="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Curlently Learning
+
+<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
