@@ -1,10 +1,6 @@
 # Hi i'm Anubhav👋!
 I'm an aspiring front-end developer
 
-## My stats
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=theAnaKen&show_icons=true&theme=radical" />
-<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnaKen&layout=compact&theme=radical" />
-<br/><br/>
 
 
 
@@ -18,6 +14,12 @@ I'm an aspiring front-end developer
 <img align="left" src ="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <br/><br/>
 
-## Curlently Learning
 
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+## My stats
+
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=theAnaKen&show_icons=true&theme=radical" />
+
+<img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAnaKen&layout=compact&theme=radical" />
+
+<br/><br/>
